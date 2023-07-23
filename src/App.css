@@ -1,0 +1,27 @@
+.heading{
+    
+    color:cadetblue;
+    translate: 480px;
+
+}
+.container{
+    
+    display: flex;
+    justify-content: space-evenly;
+    padding:21px 21px 21px 21px;
+    position: relative
+}
+.middle, .right{
+    display: inline;
+}
+.result{
+    margin-top: 100px;
+}
+.botao{
+    background-color: aqua;
+    border-radius: 30px;
+    translate: -350px 30px;
+    width: 100px;
+    height: 50px;
+    align-items: center;
+}
